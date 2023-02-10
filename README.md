@@ -1,7 +1,14 @@
 # MAKEREKAM
 
-대한민국에 거주 중인 학생입니다.
-Python, Java를 주로 사용하고,
-여러 가지 개발을 해 보면서 경험을 쌓고 있습니다.
+Email potatonara0260@naver.com
+
+# Tech
+
+![img](https://img.shields.io/badge/-Python-yellow?logo=python)
+![img](https://img.shields.io/badge/-C/C++-red?logo=C)
+![img](https://img.shields.io/badge/-HTML-blue?logo=HTML5)
+![img](https://img.shields.io/badge/-CSS-blue?logo=CSS3)
+![img](https://img.shields.io/badge/-JS-purple?logo=JavaScript)
+![img](https://img.shields.io/badge/-Java-black)
 
 ---
