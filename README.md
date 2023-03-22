@@ -1,6 +1,6 @@
 # MAKEREKAM
 
-Email potatonara0260@naver.com
+`Email maicer@vanilage.kr`
 
 # Tech
 
