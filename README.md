@@ -22,3 +22,6 @@
 ![img](https://github-readme-stats.vercel.app/api/?username=MAKEREKAM&layout=compact&theme=gruvbox)
 
 ---
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
