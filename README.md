@@ -4,7 +4,7 @@
 
 # Tech
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=python,js,ts,c,cpp,cs,java,kotlin,bash,md,html,css,xml,yaml,swift,powershell&includeNames=true&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=python,js,ts,c,cpp,cs,java,kotlin,bash,md,html,css,xml,yaml,swift,powershell,json,R,SQL&includeNames=true&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
 
 ---
 
