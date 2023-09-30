@@ -4,13 +4,7 @@
 
 # Tech
 
-![img](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python)
-![img](https://img.shields.io/badge/-C/C++-red?style=for-the-badge&logo=C)
-![img](https://img.shields.io/badge/-HTML-blue?style=for-the-badge&logo=HTML5)
-![img](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=CSS3)
-![img](https://img.shields.io/badge/-JS-purple?style=for-the-badge&logo=JavaScript)
-![img](https://img.shields.io/badge/-Java-black?style=for-the-badge)
-![img](https://img.shields.io/badge/-Kotlin-pink?style=for-the-badge&logo=Kotlin)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=python,js,ts,c,cpp,cs,java,kotlin,bash,md,html,css,xml,yaml,swift,powershell&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
 
 ---
 
