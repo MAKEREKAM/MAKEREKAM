@@ -31,8 +31,6 @@
 
 > 📦 3.0 kB Used in GitHub's Storage 
  > 
-> 🏆 1,266 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 30 Public Repositories 
@@ -95,5 +93,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MAKEREKAM/MAKEREKAM/main/assets/bar_graph.png)
 
 
- Last Updated on 02/05/2024 15:14:21 UTC
+ Last Updated on 03/05/2024 15:14:23 UTC
 <!--END_SECTION:waka-->
