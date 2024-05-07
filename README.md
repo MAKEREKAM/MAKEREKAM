@@ -31,8 +31,6 @@
 
 > 📦 3.0 kB Used in GitHub's Storage 
  > 
-> 🏆 1,266 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 30 Public Repositories 
@@ -66,16 +64,21 @@ Sunday                   250 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Kotlin                   0 secs              ███████████████░░░░░░░░░░   60.63 % 
+Properties               0 secs              █████░░░░░░░░░░░░░░░░░░░░   21.92 % 
+Java Properties          0 secs              ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
+YAML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 0 secs              █████████████████████░░░░   85.02 % 
+VS Code                  0 secs              ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Arena                    0 secs              █████████████████████░░░░   85.02 % 
+Unknown Project          0 secs              ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -95,5 +98,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MAKEREKAM/MAKEREKAM/main/assets/bar_graph.png)
 
 
- Last Updated on 06/05/2024 15:13:54 UTC
+ Last Updated on 07/05/2024 15:12:45 UTC
 <!--END_SECTION:waka-->
