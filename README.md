@@ -31,8 +31,6 @@
 
 > 📦 3.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,315 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 30 Public Repositories 
@@ -66,18 +64,16 @@ Sunday                   253 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Kotlin                   20 mins             █████████████████████████   100.00 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Arena                    14 mins             ██████████████████░░░░░░░   71.11 % 
-Kraken                   6 mins              ███████░░░░░░░░░░░░░░░░░░   28.89 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Kotlin** 
@@ -97,5 +93,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MAKEREKAM/MAKEREKAM/main/assets/bar_graph.png)
 
 
- Last Updated on 26/05/2024 15:14:38 UTC
+ Last Updated on 27/05/2024 15:15:23 UTC
 <!--END_SECTION:waka-->
