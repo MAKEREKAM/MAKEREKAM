@@ -23,13 +23,15 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-242%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-244%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 1,315 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -64,16 +66,23 @@ Sunday                   255 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Kotlin                   1 hr 17 mins        ██████████████████████░░░   88.22 % 
+Java Properties          7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+YAML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Shell Script             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 1 hr 20 mins        ███████████████████████░░   91.24 % 
+VS Code                  7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+TwentySixTest            1 hr 14 mins        █████████████████████░░░░   84.61 % 
+Unknown Project          7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+KotlinPluginTemplate     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 27 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -93,5 +102,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MAKEREKAM/MAKEREKAM/main/assets/bar_graph.png)
 
 
- Last Updated on 08/06/2024 15:14:13 UTC
+ Last Updated on 09/06/2024 15:13:16 UTC
 <!--END_SECTION:waka-->
