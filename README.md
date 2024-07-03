@@ -31,8 +31,6 @@
 
 > 📦 3.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,317 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 30 Public Repositories 
@@ -95,5 +93,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MAKEREKAM/MAKEREKAM/main/assets/bar_graph.png)
 
 
- Last Updated on 02/07/2024 15:14:54 UTC
+ Last Updated on 03/07/2024 15:15:30 UTC
 <!--END_SECTION:waka-->
