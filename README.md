@@ -23,15 +23,13 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-267%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-267%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.4 kB Used in GitHub's Storage 
- > 
-> 🏆 1,449 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -66,16 +64,24 @@ Sunday                   256 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     7 mins              ███████░░░░░░░░░░░░░░░░░░   27.64 % 
+Scala                    6 mins              ███████░░░░░░░░░░░░░░░░░░   26.42 % 
+Java                     6 mins              ██████░░░░░░░░░░░░░░░░░░░   24.57 % 
+Kotlin                   5 mins              █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            19 mins             ██████████████████░░░░░░░   72.36 % 
+VS Code                  7 mins              ███████░░░░░░░░░░░░░░░░░░   27.64 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          7 mins              ███████░░░░░░░░░░░░░░░░░░   27.64 % 
+ScalaPluginTest          6 mins              ███████░░░░░░░░░░░░░░░░░░   26.48 % 
+Nypc                     6 mins              ██████░░░░░░░░░░░░░░░░░░░   24.57 % 
+UseMuch                  5 mins              █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  26 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -95,5 +101,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MAKEREKAM/MAKEREKAM/main/assets/bar_graph.png)
 
 
- Last Updated on 17/08/2024 15:13:57 UTC
+ Last Updated on 18/08/2024 15:14:13 UTC
 <!--END_SECTION:waka-->
