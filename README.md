@@ -23,7 +23,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-273%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-273%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -66,18 +66,18 @@ Sunday                   263 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Kotlin                   1 hr 49 mins        ███████████████████░░░░░░   77.22 % 
-YAML                     32 mins             ██████░░░░░░░░░░░░░░░░░░░   22.77 % 
+Kotlin                   1 hr 56 mins        ████████████████████░░░░░   78.38 % 
+YAML                     32 mins             █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
 GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-IntelliJ IDEA            2 hrs 21 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            2 hrs 28 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Heracles                 2 hrs 21 mins       █████████████████████████   100.00 % 
+Heracles                 2 hrs 28 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 21 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -97,5 +97,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MAKEREKAM/MAKEREKAM/main/assets/bar_graph.png)
 
 
- Last Updated on 02/09/2024 15:16:24 UTC
+ Last Updated on 03/09/2024 15:16:39 UTC
 <!--END_SECTION:waka-->
