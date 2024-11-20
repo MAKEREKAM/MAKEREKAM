@@ -31,8 +31,6 @@
 
 > 📦 31.7 kB Used in GitHub's Storage 
  > 
-> 🏆 1,533 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 32 Public Repositories 
@@ -99,5 +97,5 @@ Scala                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MAKEREKAM/MAKEREKAM/main/assets/bar_graph.png)
 
 
- Last Updated on 19/11/2024 15:18:26 UTC
+ Last Updated on 20/11/2024 15:18:11 UTC
 <!--END_SECTION:waka-->
