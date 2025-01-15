@@ -22,7 +22,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-308%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-308%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -65,16 +65,24 @@ Sunday                   269 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     15 mins             ███████████████░░░░░░░░░░   60.45 % 
+Kotlin                   9 mins              █████████░░░░░░░░░░░░░░░░   37.36 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            25 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+VanilageMainSystem       12 mins             ████████████░░░░░░░░░░░░░   47.39 % 
+Vaint                    6 mins              ██████░░░░░░░░░░░░░░░░░░░   25.95 % 
+Gep                      3 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+KotlinPluginTemplate     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+Arena                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  25 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -94,5 +102,5 @@ Scala                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MAKEREKAM/MAKEREKAM/main/assets/bar_graph.png)
 
 
- Last Updated on 14/01/2025 15:16:56 UTC
+ Last Updated on 15/01/2025 15:17:00 UTC
 <!--END_SECTION:waka-->
