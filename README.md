@@ -22,8 +22,6 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-313%20hrs%2013%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -38,45 +36,6 @@
  > 
 > 🔑 12 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                116 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
-🌆 Daytime                676 commits         █████████░░░░░░░░░░░░░░░░   35.39 % 
-🌃 Evening                963 commits         █████████████░░░░░░░░░░░░   50.42 % 
-🌙 Night                  155 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   180 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
-Tuesday                  296 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
-Wednesday                280 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
-Thursday                 282 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
-Friday                   194 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
-Saturday                 409 commits         █████░░░░░░░░░░░░░░░░░░░░   21.41 % 
-Sunday                   269 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Kotlin** 
 
 ```text
@@ -94,5 +53,5 @@ Scala                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MAKEREKAM/MAKEREKAM/main/assets/bar_graph.png)
 
 
- Last Updated on 25/03/2025 15:19:21 UTC
+ Last Updated on 27/03/2025 15:19:10 UTC
 <!--END_SECTION:waka-->
