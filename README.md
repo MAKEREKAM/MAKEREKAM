@@ -63,22 +63,16 @@ Sunday                   283 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               9 mins              ████████████████████░░░░░   81.47 % 
-JSON                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-GitIgnore file           1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-month                    8 mins              ███████████████████░░░░░░   74.64 % 
-vanilagebot              1 min               ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
-Unknown Project          1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
-moon                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Kotlin** 
@@ -98,5 +92,5 @@ Scala                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MAKEREKAM/MAKEREKAM/main/assets/bar_graph.png)
 
 
- Last Updated on 14/06/2025 15:17:16 UTC
+ Last Updated on 15/06/2025 15:17:19 UTC
 <!--END_SECTION:waka-->
