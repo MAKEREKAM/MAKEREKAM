@@ -65,16 +65,19 @@ Sunday                   286 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Properties               0 secs              ███████████████░░░░░░░░░░   59.63 % 
+Kotlin                   0 secs              █████████░░░░░░░░░░░░░░░░   37.22 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Delinus                  0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -94,5 +97,5 @@ Scala                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MAKEREKAM/MAKEREKAM/main/assets/bar_graph.png)
 
 
- Last Updated on 20/08/2025 15:20:02 UTC
+ Last Updated on 21/08/2025 15:20:50 UTC
 <!--END_SECTION:waka-->
