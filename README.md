@@ -22,7 +22,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-370%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-372%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -30,7 +30,7 @@
 
 > 📦 32.2 kB Used in GitHub's Storage 
  > 
-> 🏆 45 Contributions in the Year 2025
+> 🏆 47 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -38,45 +38,6 @@
  > 
 > 🔑 13 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                117 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-🌆 Daytime                695 commits         █████████░░░░░░░░░░░░░░░░   35.75 % 
-🌃 Evening                969 commits         ████████████░░░░░░░░░░░░░   49.85 % 
-🌙 Night                  163 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   182 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
-Tuesday                  303 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
-Wednesday                282 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-Thursday                 283 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
-Friday                   197 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
-Saturday                 411 commits         █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
-Sunday                   286 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-C#                       18 mins             █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  18 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-MoneyCode                18 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  18 mins             █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Kotlin** 
 
 ```text
@@ -94,5 +55,5 @@ Scala                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MAKEREKAM/MAKEREKAM/main/assets/bar_graph.png)
 
 
- Last Updated on 31/10/2025 15:18:01 UTC
+ Last Updated on 01/11/2025 15:16:09 UTC
 <!--END_SECTION:waka-->
