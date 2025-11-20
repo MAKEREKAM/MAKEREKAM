@@ -24,7 +24,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-374%20hrs%2014%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -71,8 +71,8 @@ Kotlin                   4 mins              ███████████�
 IntelliJ IDEA            4 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Igloe                    3 mins              ███████████████████████░░   93.70 % 
-Baekjoon                 0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+Igloe                    3 mins              ███████████████████████░░   93.94 % 
+Baekjoon                 0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
 
 💻 Operating System: 
 Windows                  4 mins              █████████████████████████   100.00 % 
@@ -95,5 +95,5 @@ Scala                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MAKEREKAM/MAKEREKAM/main/assets/bar_graph.png)
 
 
- Last Updated on 19/11/2025 15:20:24 UTC
+ Last Updated on 20/11/2025 15:20:21 UTC
 <!--END_SECTION:waka-->
