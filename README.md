@@ -22,7 +22,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-422%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-423%20hrs%2051%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -30,7 +30,7 @@
 
 > 📦 32.4 kB Used in GitHub's Storage 
  > 
-> 🏆 20 Contributions in the Year 2026
+> 🏆 21 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -38,46 +38,6 @@
  > 
 > 🔑 16 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                111 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
-🌆 Daytime                700 commits         █████████░░░░░░░░░░░░░░░░   35.92 % 
-🌃 Evening                974 commits         ████████████░░░░░░░░░░░░░   49.97 % 
-🌙 Night                  164 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   183 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
-Tuesday                  304 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
-Wednesday                285 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-Thursday                 288 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-Friday                   197 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
-Saturday                 405 commits         █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
-Sunday                   287 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-Markdown                 1 hr 27 mins        █████████████████████████   100.00 % 
-
-🔥 Editors: 
-Obsidian                 1 hr 27 mins        █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-NPNP                     1 hr 27 mins        █████████████████████████   99.98 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-
-💻 Operating System: 
-Mac                      1 hr 27 mins        █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Kotlin** 
 
 ```text
@@ -95,5 +55,5 @@ Scala                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MAKEREKAM/MAKEREKAM/main/assets/bar_graph.png)
 
 
- Last Updated on 10/06/2026 17:56:52 UTC
+ Last Updated on 11/06/2026 18:11:17 UTC
 <!--END_SECTION:waka-->
