@@ -22,6 +22,8 @@
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-451%20hrs%2019%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -36,6 +38,52 @@
  > 
 > 🔑 16 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                116 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+🌆 Daytime                702 commits         █████████░░░░░░░░░░░░░░░░   35.83 % 
+🌃 Evening                977 commits         ████████████░░░░░░░░░░░░░   49.87 % 
+🌙 Night                  164 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   186 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+Tuesday                  305 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+Wednesday                286 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+Thursday                 292 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
+Friday                   198 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+Saturday                 405 commits         █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
+Sunday                   287 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+Markdown                 5 hrs 14 mins       █████████████████████████   100.00 % 
+
+🔥 Editors: 
+Obsidian                 5 hrs 14 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Unknown Project          4 hrs 9 mins        ████████████████████░░░░░   79.23 % 
+NPNP                     1 hr 5 mins         █████░░░░░░░░░░░░░░░░░░░░   20.77 % 
+
+💻 Operating System: 
+Mac                      5 hrs 14 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in Kotlin** 
 
 ```text
@@ -53,5 +101,5 @@ Scala                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MAKEREKAM/MAKEREKAM/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 16:39:55 UTC
+ Last Updated on 29/07/2026 16:20:58 UTC
 <!--END_SECTION:waka-->
