@@ -22,7 +22,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-454%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-454%20hrs%2049%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -65,17 +65,17 @@ Sunday                   287 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 2 hrs 32 mins       █████████████████████████   100.00 % 
+Markdown                 2 hrs 47 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Obsidian                 2 hrs 32 mins       █████████████████████████   100.00 % 
+Obsidian                 2 hrs 47 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          2 hrs 22 mins       ███████████████████████░░   93.36 % 
-NPNP                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+Unknown Project          2 hrs 37 mins       ███████████████████████░░   93.97 % 
+NPNP                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
 
 💻 Operating System: 
-Mac                      2 hrs 32 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -101,5 +101,5 @@ Scala                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MAKEREKAM/MAKEREKAM/main/assets/bar_graph.png)
 
 
- Last Updated on 12/08/2026 15:58:28 UTC
+ Last Updated on 13/08/2026 15:58:13 UTC
 <!--END_SECTION:waka-->
