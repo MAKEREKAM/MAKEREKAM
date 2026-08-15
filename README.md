@@ -65,17 +65,17 @@ Sunday                   287 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 2 hrs 31 mins       █████████████████████████   100.00 % 
+Markdown                 2 hrs 23 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Obsidian                 2 hrs 31 mins       █████████████████████████   100.00 % 
+Obsidian                 2 hrs 23 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          2 hrs 21 mins       ███████████████████████░░   93.35 % 
-NPNP                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+Unknown Project          2 hrs 12 mins       ███████████████████████░░   92.94 % 
+NPNP                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
 
 💻 Operating System: 
-Mac                      2 hrs 31 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -101,5 +101,5 @@ Scala                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MAKEREKAM/MAKEREKAM/main/assets/bar_graph.png)
 
 
- Last Updated on 14/08/2026 15:50:10 UTC
+ Last Updated on 15/08/2026 15:18:20 UTC
 <!--END_SECTION:waka-->
