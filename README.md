@@ -71,8 +71,8 @@ Markdown                 54 mins             ███████████�
 Obsidian                 54 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-NPNP                     40 mins             ███████████████████░░░░░░   74.09 % 
-Unknown Project          14 mins             ██████░░░░░░░░░░░░░░░░░░░   25.91 % 
+NPNP                     40 mins             ███████████████████░░░░░░   74.02 % 
+Unknown Project          14 mins             ██████░░░░░░░░░░░░░░░░░░░   25.98 % 
 
 💻 Operating System: 
 Mac                      54 mins             █████████████████████████   100.00 % 
@@ -101,5 +101,5 @@ Scala                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MAKEREKAM/MAKEREKAM/main/assets/bar_graph.png)
 
 
- Last Updated on 21/08/2026 15:31:16 UTC
+ Last Updated on 22/08/2026 15:19:06 UTC
 <!--END_SECTION:waka-->
