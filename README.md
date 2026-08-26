@@ -22,7 +22,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-457%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-457%20hrs%2034%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -30,7 +30,7 @@
 
 > 📦 32.6 kB Used in GitHub's Storage 
  > 
-> 🏆 30 Contributions in the Year 2026
+> 🏆 31 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -41,20 +41,20 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                116 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
-🌆 Daytime                703 commits         █████████░░░░░░░░░░░░░░░░   35.87 % 
-🌃 Evening                977 commits         ████████████░░░░░░░░░░░░░   49.85 % 
-🌙 Night                  164 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+🌞 Morning                117 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+🌆 Daytime                703 commits         █████████░░░░░░░░░░░░░░░░   35.85 % 
+🌃 Evening                977 commits         ████████████░░░░░░░░░░░░░   49.82 % 
+🌙 Night                  164 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   186 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
-Tuesday                  305 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-Wednesday                286 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
-Thursday                 292 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+Monday                   186 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
+Tuesday                  305 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+Wednesday                287 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+Thursday                 292 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
 Friday                   199 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
-Saturday                 405 commits         █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
+Saturday                 405 commits         █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
 Sunday                   287 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
 ```
 
@@ -65,17 +65,17 @@ Sunday                   287 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 2 hrs 21 mins       █████████████████████████   100.00 % 
+Markdown                 2 hrs 30 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Obsidian                 2 hrs 21 mins       █████████████████████████   100.00 % 
+Obsidian                 2 hrs 30 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 27 mins        ████████████████░░░░░░░░░   62.09 % 
-NPNP                     53 mins             █████████░░░░░░░░░░░░░░░░   37.91 % 
+Unknown Project          1 hr 37 mins        ████████████████░░░░░░░░░   64.39 % 
+NPNP                     53 mins             █████████░░░░░░░░░░░░░░░░   35.61 % 
 
 💻 Operating System: 
-Mac                      2 hrs 21 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -101,5 +101,5 @@ Scala                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MAKEREKAM/MAKEREKAM/main/assets/bar_graph.png)
 
 
- Last Updated on 25/08/2026 15:40:35 UTC
+ Last Updated on 26/08/2026 16:16:48 UTC
 <!--END_SECTION:waka-->
