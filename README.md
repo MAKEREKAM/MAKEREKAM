@@ -22,7 +22,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-467%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-468%20hrs%2016%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -71,8 +71,8 @@ Markdown                 1 hr 39 mins        ███████████�
 Obsidian                 1 hr 39 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 30 mins        ███████████████████████░░   90.93 % 
-NPNP                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+Unknown Project          1 hr 38 mins        █████████████████████████   99.55 % 
+NPNP                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 💻 Operating System: 
 Mac                      1 hr 39 mins        █████████████████████████   100.00 % 
@@ -101,5 +101,5 @@ Scala                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MAKEREKAM/MAKEREKAM/main/assets/bar_graph.png)
 
 
- Last Updated on 25/09/2026 19:08:11 UTC
+ Last Updated on 26/09/2026 18:20:12 UTC
 <!--END_SECTION:waka-->
