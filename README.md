@@ -22,7 +22,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-471%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-472%20hrs%209%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -30,20 +30,20 @@
 
 > 📦 32.6 kB Used in GitHub's Storage 
  > 
-> 🏆 31 Contributions in the Year 2026
+> 🏆 33 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 32 Public Repositories 
  > 
-> 🔑 16 Private Repositories 
+> 🔑 17 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                117 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-🌆 Daytime                703 commits         █████████░░░░░░░░░░░░░░░░   35.85 % 
-🌃 Evening                977 commits         ████████████░░░░░░░░░░░░░   49.82 % 
+🌞 Morning                117 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+🌆 Daytime                703 commits         █████████░░░░░░░░░░░░░░░░   35.83 % 
+🌃 Evening                978 commits         ████████████░░░░░░░░░░░░░   49.85 % 
 🌙 Night                  164 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
 ```
 📅 **I'm Most Productive on Saturday** 
@@ -51,11 +51,11 @@
 ```text
 Monday                   186 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
 Tuesday                  305 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
-Wednesday                287 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-Thursday                 292 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-Friday                   199 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
-Saturday                 405 commits         █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
-Sunday                   287 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+Wednesday                287 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
+Thursday                 292 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+Friday                   199 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+Saturday                 406 commits         █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
+Sunday                   287 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
 ```
 
 
@@ -65,17 +65,23 @@ Sunday                   287 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 3 hrs 56 mins       █████████████████████████   100.00 % 
+Markdown                 3 hrs 51 mins       █████████████████████████   98.47 % 
+Kotlin                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Obsidian                 3 hrs 56 mins       █████████████████████████   100.00 % 
+Obsidian                 3 hrs 51 mins       █████████████████████████   98.47 % 
+IntelliJ IDEA            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
 
 🐱‍💻 Projects: 
-Unknown Project          3 hrs 55 mins       █████████████████████████   99.54 % 
-NPNP                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Unknown Project          3 hrs 50 mins       █████████████████████████   98.09 % 
+Lip                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+NPNP                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Guot                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Mac                      3 hrs 56 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 51 mins       █████████████████████████   98.47 % 
+Windows                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -87,11 +93,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Kotlin** 
 
 ```text
-Kotlin                   28 repos            ███████████████░░░░░░░░░░   59.57 % 
-Python                   5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-ShaderLab                1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-Scala                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Kotlin                   29 repos            ███████████████░░░░░░░░░░   60.42 % 
+Python                   5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+ShaderLab                1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+Scala                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 ```
 
 
@@ -101,5 +107,5 @@ Scala                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MAKEREKAM/MAKEREKAM/main/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2026 19:46:02 UTC
+ Last Updated on 03/10/2026 18:33:25 UTC
 <!--END_SECTION:waka-->
