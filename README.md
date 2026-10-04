@@ -22,15 +22,17 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-472%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-476%20hrs%2053%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 32.6 kB Used in GitHub's Storage 
+> 📦 32.7 kB Used in GitHub's Storage 
  > 
-> 🏆 33 Contributions in the Year 2026
+> 🏆 35 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -42,20 +44,20 @@
 
 ```text
 🌞 Morning                117 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
-🌆 Daytime                703 commits         █████████░░░░░░░░░░░░░░░░   35.83 % 
-🌃 Evening                978 commits         ████████████░░░░░░░░░░░░░   49.85 % 
-🌙 Night                  164 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+🌆 Daytime                704 commits         █████████░░░░░░░░░░░░░░░░   35.85 % 
+🌃 Evening                979 commits         ████████████░░░░░░░░░░░░░   49.85 % 
+🌙 Night                  164 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   186 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
-Tuesday                  305 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
-Wednesday                287 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-Thursday                 292 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-Friday                   199 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-Saturday                 406 commits         █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
-Sunday                   287 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
+Monday                   186 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+Tuesday                  305 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+Wednesday                287 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+Thursday                 292 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+Friday                   199 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+Saturday                 406 commits         █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
+Sunday                   289 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
 ```
 
 
@@ -65,29 +67,47 @@ Sunday                   287 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 3 hrs 51 mins       █████████████████████████   98.47 % 
-Kotlin                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Kotlin                   4 hrs 24 mins       █████████████░░░░░░░░░░░░   51.77 % 
+Markdown                 3 hrs 43 mins       ███████████░░░░░░░░░░░░░░   43.78 % 
+YAML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-Obsidian                 3 hrs 51 mins       █████████████████████████   98.47 % 
-IntelliJ IDEA            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+IntelliJ IDEA            4 hrs 43 mins       ██████████████░░░░░░░░░░░   55.47 % 
+Obsidian                 3 hrs 43 mins       ███████████░░░░░░░░░░░░░░   43.78 % 
+Codex Vscode             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 
 🐱‍💻 Projects: 
-Unknown Project          3 hrs 50 mins       █████████████████████████   98.09 % 
-Lip                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
-NPNP                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
-Guot                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Guot                     4 hrs 43 mins       ██████████████░░░░░░░░░░░   55.52 % 
+Unknown Project          3 hrs 43 mins       ███████████░░░░░░░░░░░░░░   43.78 % 
+Lip                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 
 💻 Operating System: 
-Mac                      3 hrs 51 mins       █████████████████████████   98.47 % 
-Windows                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+Windows                  4 hrs 47 mins       ██████████████░░░░░░░░░░░   56.22 % 
+Mac                      3 hrs 43 mins       ███████████░░░░░░░░░░░░░░   43.78 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 7 mins (1.5%)
+
+✍️ 0 lines written by AI, 396 lines written by hand (0.0% AI-written)
+
+🔤 34,198 Input Tokens, 1,071 Output Tokens
+
+💵 $0.01 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 4 AI Prompts
+
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 108 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Kotlin** 
@@ -107,5 +127,5 @@ Scala                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MAKEREKAM/MAKEREKAM/main/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2026 18:33:25 UTC
+ Last Updated on 04/10/2026 18:32:38 UTC
 <!--END_SECTION:waka-->
