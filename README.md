@@ -22,7 +22,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-477%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-477%20hrs%2041%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20mins-blue?style=flat)
 
@@ -67,34 +67,34 @@ Sunday                   289 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Kotlin                   4 hrs 24 mins       ████████████░░░░░░░░░░░░░   49.10 % 
-Markdown                 4 hrs 11 mins       ████████████░░░░░░░░░░░░░   46.68 % 
-YAML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
-textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Kotlin                   4 hrs 24 mins       ████████████████░░░░░░░░░   64.88 % 
+Markdown                 2 hrs               ███████░░░░░░░░░░░░░░░░░░   29.55 % 
+YAML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-IntelliJ IDEA            4 hrs 43 mins       █████████████░░░░░░░░░░░░   52.60 % 
-Obsidian                 4 hrs 11 mins       ████████████░░░░░░░░░░░░░   46.68 % 
-Codex Vscode             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+IntelliJ IDEA            4 hrs 43 mins       █████████████████░░░░░░░░   69.51 % 
+Obsidian                 2 hrs               ███████░░░░░░░░░░░░░░░░░░   29.55 % 
+Codex Vscode             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 
 🐱‍💻 Projects: 
-Guot                     4 hrs 43 mins       █████████████░░░░░░░░░░░░   52.65 % 
-Unknown Project          4 hrs 11 mins       ████████████░░░░░░░░░░░░░   46.68 % 
-Lip                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+Guot                     4 hrs 43 mins       █████████████████░░░░░░░░   69.57 % 
+Unknown Project          2 hrs               ███████░░░░░░░░░░░░░░░░░░   29.54 % 
+Lip                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 NPNP                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Windows                  4 hrs 47 mins       █████████████░░░░░░░░░░░░   53.32 % 
-Mac                      4 hrs 11 mins       ████████████░░░░░░░░░░░░░   46.68 % 
+Windows                  4 hrs 47 mins       ██████████████████░░░░░░░   70.45 % 
+Mac                      2 hrs               ███████░░░░░░░░░░░░░░░░░░   29.55 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 mins (1.43%)
+⏱ AI Coding Time: 7 mins (1.88%)
 
-✍️ 0 lines written by AI, 399 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 388 lines written by hand (0.0% AI-written)
 
 🔤 34,198 Input Tokens, 1,071 Output Tokens
 
@@ -128,5 +128,5 @@ Scala                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MAKEREKAM/MAKEREKAM/main/assets/bar_graph.png)
 
 
- Last Updated on 06/10/2026 19:59:34 UTC
+ Last Updated on 07/10/2026 20:26:13 UTC
 <!--END_SECTION:waka-->
