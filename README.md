@@ -67,47 +67,23 @@ Sunday                   289 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Kotlin                   4 hrs 21 mins       ███████████████░░░░░░░░░░   59.58 % 
-Markdown                 2 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   35.23 % 
-YAML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
-textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Markdown                 2 hrs 34 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-IntelliJ IDEA            4 hrs 39 mins       ████████████████░░░░░░░░░   63.89 % 
-Obsidian                 2 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   35.23 % 
-Codex Vscode             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+Obsidian                 2 hrs 34 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Guot                     4 hrs 43 mins       ████████████████░░░░░░░░░   64.77 % 
-Unknown Project          1 hr 47 mins        ██████░░░░░░░░░░░░░░░░░░░   24.58 % 
-NPNP                     46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+Unknown Project          1 hr 48 mins        █████████████████░░░░░░░░   69.89 % 
+NPNP                     46 mins             ████████░░░░░░░░░░░░░░░░░   30.11 % 
 
 💻 Operating System: 
-Windows                  4 hrs 43 mins       ████████████████░░░░░░░░░   64.77 % 
-Mac                      2 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   35.23 % 
+Mac                      2 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 mins (1.75%)
-
-✍️ 0 lines written by AI, 391 lines written by hand (0.0% AI-written)
-
-🔤 34,198 Input Tokens, 1,071 Output Tokens
-
-💵 $0.01 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 4 AI Prompts
-
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 108 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Kotlin** 
@@ -127,5 +103,5 @@ Scala                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MAKEREKAM/MAKEREKAM/main/assets/bar_graph.png)
 
 
- Last Updated on 10/10/2026 19:08:10 UTC
+ Last Updated on 11/10/2026 19:20:48 UTC
 <!--END_SECTION:waka-->
